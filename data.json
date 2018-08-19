@@ -1,0 +1,51 @@
+{
+	"basics":{
+		"name":"veenakotapati",
+		"role":"Mean-stack",
+		"mobile":"+91 9876543210",
+		"email":"veenakumarikotapati@gmail.com"
+		},
+		"career":{
+			"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+		},
+		"education":[
+        {
+        	"degree":"B-Tech(Computer Science &Engineering)",
+        	"institute":"Vignan Nirula",
+        	"data":["2016-20","85%"]
+        },
+   
+  
+        {
+        	"degree":"Intermediate(MPC)",
+        	"institute":"sri chaitanya",
+        	"data":["2014-16","85%"]
+        },
+         {
+        	"degree":"SSC",
+        	"institute":"Narayana",
+        	"data":["2013-14","85%"]
+        }
+   ],
+		"skills":[
+           {
+           	"title":"programming languages",
+           	"content":["Python","C","Java","R","C++"]
+           },
+		
+          {
+           	"title":"Data Bases",
+           	"content":["Sql","Oracle","mysql"]
+           },
+            {
+           	"title":"Web Technologies",
+           	"content":["XML","HTML","Javascript"]
+           },
+    	
+           {
+           	"title":"Operating Systems",
+           	"content":["Windows","Unix","Linux"]
+           }
+          ]
+         }  
+  
